@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '34858'
     url: http://www.gutenberg.org/2009/agents/34858
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30854#The-Voice--Its-Production-Care-and-Preservation
 gutenberg_bookshelf: Music
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
